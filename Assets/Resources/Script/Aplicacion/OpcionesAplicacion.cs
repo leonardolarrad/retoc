@@ -1,0 +1,14 @@
+﻿using UnityEngine;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Rc.Aplicacion
+{
+    public class OpcionesAplicacion
+    {
+        public String DirectorioBasedatos = Application.dataPath + "/../";
+        public String NombreBasedatos = "RcBasedatos.db";
+    }
+}

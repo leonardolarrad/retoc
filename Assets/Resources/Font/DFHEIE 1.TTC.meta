@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 986ca20ec6841ca4baffc633fb95f3b2
+timeCreated: 1520092695
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DFGothic-SU
+  fontNames:
+  - DFGothic-SU
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e2859bd797b83234fb5ec083e8f969e9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
