@@ -4,7 +4,7 @@
 
 
 # Reto al Conocimiento
-Reto al Conocimiento 'RETOC' es un *videojuego educativo* creado con Unity3d para realizar torneos escolares al estilo pregunta-respuesta.
+Reto al Conocimiento 'RETOC' es un <p>*increible*</p> videojuego educativo creado con Unity3d para realizar torneos escolares al estilo pregunta-respuesta.
 
 ## Juego
 <p align="center">
