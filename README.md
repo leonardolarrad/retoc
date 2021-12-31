@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/Resources/Texture/Logo/Logo transparencia-01.png?raw=true" align width=256>
+  <img src="./Assets/Resources/Texture/Logo/Logo transparencia-01.png?raw=true" align width=70%>
 </p>
 
 
