@@ -8,10 +8,10 @@ Reto al Conocimiento es un videojuego educativo creado con Unity3d para realizar
 
 ## Juego
 <p align="center">
-  <img src="./Assets/Resources/Texture/Presentacion/juego.gif?raw=true" align width=70%>
+  <img src="./Assets/Resources/Texture/Presentacion/juego.gif?raw=true" align width=100%>
 </p>
 
 ## Editor
 <p align="center">
-  <img src="./Assets/Resources/Texture/Presentacion/editor.gif?raw=true" align width=70%>
+  <img src="./Assets/Resources/Texture/Presentacion/editor.gif?raw=true" align width=100%>
 </p>
